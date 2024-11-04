@@ -19,10 +19,6 @@ Currently, I am working on Machin learning and data mining
 ### 📊 GitHub Stats
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mehwish-Nasir&show_icons=true&theme=radical)
 
-### 🚀 Featured Projects
-- **[Project Name](link to GitHub repository)**: Short description.
-- **[Project Name](link to GitHub repository)**: Short description.
-
 ---
 
 Thanks for visiting my profile! 😊
