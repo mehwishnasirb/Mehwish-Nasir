@@ -1,4 +1,3 @@
-# Mehwish-Nasir
 # Hi, I'm Mehwish Nasir! 👋
 
 ### 👩‍💻 About Me
